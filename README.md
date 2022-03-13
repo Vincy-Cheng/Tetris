@@ -1,6 +1,7 @@
 # Tetris
 # CUHK IERG3810 Project
 
+Using ARM
 
 Example captured:
 
