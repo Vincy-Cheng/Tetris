@@ -3,7 +3,7 @@
 
 Using ARM
 
-CAn twist the falling block and speed with keyboard.
+Can twist the falling block and speed with keyboard.
 
 Example video:
 
