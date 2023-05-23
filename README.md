@@ -1,9 +1,11 @@
 # Tetris Game
 # CUHK IERG3810 Project
 
-Using ARM
+Using ARM to build the game.
 
-Can twist the falling block and speed with keyboard.
+It has 3 levels. The speed of falling block will be increased as the level is upgraded.
+
+Can twist the falling block and change speed with keyboard.
 
 Example video:
 
